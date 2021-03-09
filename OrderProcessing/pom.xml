@@ -3,13 +3,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.kao.orderservice</groupId>
-    <artifactId>orderservice</artifactId>
+    <groupId>com.kao.orderprocesing</groupId>
+    <artifactId>orderprocesing</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>com.kao.orderservice</name>
-    <description>com.kao.orderservice</description>
+    <name>com.kao.orderprocesing</name>
+    <description>com.kao.orderprocesing</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
