@@ -16,4 +16,3 @@
 :\> curl http://localhost:9000/orderservice/default ||  curl http://localhost:9000/inventoryservices/default 
 ```
 
-* Look for ch04/sample03 to see how we can consume configuration published by the configuration service from a microservice.
